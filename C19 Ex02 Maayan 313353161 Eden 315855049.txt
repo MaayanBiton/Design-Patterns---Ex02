@@ -1,0 +1,16 @@
+
+#tag3
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+
+#tag2
+First Student Details.: 313353161 - Maayan Biton
+First Student Details.: 315855049 - Eden Hecht
+Delivery Date.........: 31 - August - 2019
+Delivered In Delay....: No
+
+#tag1
+Delay Reason..........: -
+Visual Studio Version.: 2015
+Comments..............:  -
+===========================End Of Exercise Report=============================
